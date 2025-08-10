@@ -1,3 +1,2 @@
-# Doxbin-Database-checker
-Doxbin Database checker by x1mv_samet
-This tool is not for harming or doing anything bad, you can use it to lookup the database which is not secret dear github.
+# Doxbin-Database-checker by x1mv_samet
+this database is from 2022 so only the OG accounts can work.
